@@ -17,7 +17,8 @@
 ## npm安装yoman
 - 安装命令 <b>npm install -g yo</b>
 ## npm安装Bower（一种鸟）
-	 在传统的开发流程中，当项目需要jquery1.1 和jquery1.2 时，我们要到官网把2个版本都下载下来，这样很麻烦，当是有了bower，我们就不用在去到官网下载
+	 在传统的开发流程中，当项目需要jquery1.1 和jquery1.2 时，我们要到官网把2个版本都下载下来，这样很麻烦，当是有了bower，
+	 我们就不用在去到官网下载
 	 bower会自动帮我们下载我们项目中需要的版本
 - 安装bower的命令<b>npm install -g bower</b>
 
